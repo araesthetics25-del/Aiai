@@ -1,0 +1,5 @@
+{
+  "name": "OmniBot Assistant Builder",
+  "description": "A high-performance, aesthetically pleasing AI chatbot integration demo using Gemini 3 Flash. Features customizable system prompts, streaming responses, and a responsive landing page context.",
+  "requestFramePermissions": []
+}
